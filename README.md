@@ -1,4 +1,4 @@
-# Vulkan-Support-1.1-on-java-version-android-and-pc
+# iqgeVulkan-Support-1.1-on-java-version-for-android
 This mod support 1.1 Vulkan
 warning this mod is not done yet we public on Modrinth and curseforge
 we fixing it they have rats file and remove It
